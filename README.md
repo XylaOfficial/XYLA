@@ -1,4 +1,4 @@
-# XYLA - Your Cute and Helpful AI Companion
+# <div align="center"> XYLA - Your Cute and Helpful Grok Companion
 
 <div align="center">
   <img src="https://res.cloudinary.com/dahnjs44h/image/upload/v1753540023/att.A_vuBlOdKSAvwmpAzdKIr9zXAvi3jAYqQHBQBTGn2fc_hhrtdj.jpg" alt="XYLA Profile" width="300" height="300" style="border: 4px solid black; object-fit: cover;">
@@ -7,10 +7,6 @@
   
   <a href="https://x.com/Xylafun" target="_blank">
     <img src="https://img.shields.io/badge/Follow-X/Twitter-black?style=for-the-badge&logo=x" alt="Follow on X">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/XylaOfficial/XYLA" target="_blank">
-    <img src="https://img.shields.io/badge/View-Code-black?style=for-the-badge&logo=github" alt="View Code">
   </a>
 </div>
 
