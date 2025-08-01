@@ -5,7 +5,7 @@
   
   <br><br>
   
-  <a href="https://x.com/Xylasol" target="_blank">
+  <a href="https://x.com/Xylaonsol" target="_blank">
     <img src="https://img.shields.io/badge/Follow-X/Twitter-black?style=for-the-badge&logo=x" alt="Follow on X">
   </a>
 </div>
